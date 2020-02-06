@@ -11,3 +11,6 @@
 1. Sectors that are growing
 1. Calculate Beta for portfolios - use zipline
 1. Final presentation slides
+
+1. Once Corona virus data is compiled we can use the bin function to bin together death ratio to sell off
+and recovery ratio to sell off (daily) this will give us 2 signals. Sell off and Buy in. 
